@@ -2,6 +2,6 @@ const application = require("../../config/server");
 
 module.exports = (application)=>{
     application.get("/", (req, res)=>{
-        res.send("Teste");
+        application.app.controllers.index.home(application, req, res);
     });
 }

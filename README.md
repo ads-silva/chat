@@ -11,6 +11,7 @@ Simple chat model using knowledge from the node.js course.
 * [bodyParser](https://www.npmjs.com/package/body-parser) - Used to parse incoming request bodies in a middleware before your handlers.
 * [expressValidator](https://express-validator.github.io/docs/) - express-validator is a set of express.js middlewares that wraps validator.js validator and sanitizer functions.
 * [ejs](https://www.npmjs.com/package/ejs) - Embedded JavaScript templates
+* [socket.io](https://www.npmjs.com/package/socket.io) - Socket.IO enables real-time, bidirectional and event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed.
 
 ## Authors
 
